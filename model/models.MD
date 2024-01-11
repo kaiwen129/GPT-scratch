@@ -1,0 +1,14 @@
+## Models ##
+
+# gentrf #
+EMBEDDING_DIM = 128  
+BATCH_SIZE = 32  
+NUM_BATCHES = 60000 (cumulative, not enough)    
+NUM_TOKENS = 256  
+
+LEARNING_RATE = 0.0001  
+ATTENTION_HEADS = 8  
+DEPTH = 8  
+SEQ_LENGTH = 256  
+SAMPLE_SEQ_LENGTH = 256  
+TEMPERATURE = 0.5  
