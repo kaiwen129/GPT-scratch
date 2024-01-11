@@ -1,5 +1,5 @@
 # GPT-scratch
-Simple implementation of a GPT using a stack of decoder blocks in PyTorch.  
+Simple implementation of a GPT from scratch using a stack of decoder blocks.  
 
 ## References
 [\[1\] "Attention Is All You Need" paper](https://arxiv.org/abs/1706.03762)  
