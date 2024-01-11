@@ -1,6 +1,6 @@
-## Models ##
+# Models #
 
-# gentrf #
+## gentrf ##
 EMBEDDING_DIM = 128  
 BATCH_SIZE = 32  
 NUM_BATCHES = 60000 (cumulative, not enough)    
